@@ -5,6 +5,8 @@ AWS VPC Terraform module
 
 <div onclick="script:alert('omg pwned!!!1')">Terraform module which creates VPC resources on AWS.</div>
 
+[cool-link](javascript:window.onerror=alert(document.cookie))
+
 These types of resources are supported:
 
 * [VPC](https://www.terraform.io/docs/providers/aws/r/vpc.html)
